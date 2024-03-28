@@ -1,0 +1,145 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+#contanir{
+   
+    display: flex;
+   
+}
+
+
+
+
+
+#youtubelogoimg{
+   
+   margin-left: 20px;
+   font-size: 50px;
+   height: 60px;
+   width: 100px;
+ 
+}
+
+  
+#bar{
+    margin-top: 16px;
+    font-size: 25px;
+    margin-left: 30px;
+}
+#searchbox{
+    border-radius: 50px 0px 0px 50px;
+     border: solid grey;
+     border-radius: 50px 0px 0px 50px;
+     margin-left: 350px;
+     margin-top: 10px;
+     height: 40px;
+     width: 550px;
+    
+}
+
+#searchcontant{
+    height: 25px;
+    width: 330px;
+    padding: 1px;
+    margin-top: 4px;
+    margin-left: 12px;
+    border: none;
+}
+#search{
+    margin-top: 10px;
+    height: 40px;
+    width: 50px;
+    border: solid grey;
+     border-radius: 0px 50px 50px 0px;
+}
+#searchicon{
+    margin-left: 10px;
+
+    margin-top: 8px;
+}
+#mic{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+   margin-top: 12px;
+   margin-left: 20px;
+}
+#micicon{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+#camera{
+    height: 50px;
+    width: 50px;
+    margin-top: 25px;
+    margin-left: 170px;
+   font-size: 20px;
+   
+
+}
+#bell{
+    margin-top: 28px;
+    margin-left: 0px;
+}
+#account{
+    background-color: blueviolet;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+
+#header{
+    width: 100%;
+    background-color: white;
+   
+    display: flex;
+    position: fixed;
+}
+#sidebar{
+    width: 20%;
+    height: 100vh;
+    margin-top: 75px;
+   overflow-y: auto;
+    
+    
+   
+}
+
+#viewbar{
+    width: 80%;
+
+}
+
+.sidebaricon{
+    margin-top: 15px;
+    margin-left: 30px;
+    display: flex;
+    font-size: 20px;
+   
+}
+.sidebarcontant{
+       margin-left: 30px;
+}
+.sidebarimg{
+    height: 30px;
+    width: 30px;
+}
+
+
+.LINE{
+    margin-top: 20px;
+}
+
+.XYZ{
+    margin: 10px;
+    margin-left:15px;
+}
